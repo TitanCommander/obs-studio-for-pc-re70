@@ -1,4 +1,4 @@
-# 
+# OBS Studio for PC | OBS Studio for Windows top Plugin: plugin-support & bitrate-control offers the most advanced OBS Studio for PC | OBS Studio for Windows plugin, with
 
 
 
